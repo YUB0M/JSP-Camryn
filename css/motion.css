@@ -1,0 +1,36 @@
+@CHARSET "UTF-8";
+
+
+#_memberJoin {
+	padding: 2.5em 0;
+	border: 1px solid #dee2e6;
+}
+
+.subListname {
+    font-size: 1.5rem;
+    margin-top: 3rem;
+    color: #343a40;
+}
+
+..mainContainer {
+	align: center;
+}
+
+.form-group {
+	text-align: left;
+}
+
+input#userid {
+    float: left;
+    width: 80%;
+}
+
+#useridChk {
+	width: 20%;
+	margin-right: auto;
+}
+
+loginlb {
+	text-align: right;
+	
+}
